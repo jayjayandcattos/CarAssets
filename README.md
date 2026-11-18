@@ -17,3 +17,6 @@ This repository contains GLB-format 3D car models used in the AutoVision project
 
 ## Related Project
 This asset repository is used by the AutoVision web platform for 3D visualization.
+
+## Co-author
+- [@chaosbringer1](https://github.com/chaosbringer1)
