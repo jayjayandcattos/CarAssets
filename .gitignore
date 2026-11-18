@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors and Vim swap files
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+
+# Logs and local scratch files
+*.log
