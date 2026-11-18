@@ -1,0 +1,1352 @@
+{
+  "generatedBy": "scripts/build-manifest.mjs",
+  "modelCount": 51,
+  "totalBytes": 926958024,
+  "brands": {
+    "aston-martin": {
+      "models": 1,
+      "bytes": 12034828
+    },
+    "audi": {
+      "models": 3,
+      "bytes": 76734620
+    },
+    "bmw": {
+      "models": 6,
+      "bytes": 117521056
+    },
+    "chevrolet": {
+      "models": 3,
+      "bytes": 49100648
+    },
+    "ferrari": {
+      "models": 3,
+      "bytes": 42071344
+    },
+    "ford": {
+      "models": 5,
+      "bytes": 87889128
+    },
+    "honda": {
+      "models": 3,
+      "bytes": 24797156
+    },
+    "hyundai": {
+      "models": 7,
+      "bytes": 123546512
+    },
+    "lamborghini": {
+      "models": 4,
+      "bytes": 45369048
+    },
+    "maserati": {
+      "models": 1,
+      "bytes": 16873512
+    },
+    "mclaren": {
+      "models": 2,
+      "bytes": 72239736
+    },
+    "mercedes": {
+      "models": 2,
+      "bytes": 66945276
+    },
+    "nissan": {
+      "models": 2,
+      "bytes": 26402100
+    },
+    "porsche": {
+      "models": 5,
+      "bytes": 47457296
+    },
+    "tesla": {
+      "models": 1,
+      "bytes": 53280664
+    },
+    "toyota": {
+      "models": 2,
+      "bytes": 47383476
+    },
+    "volkswagen": {
+      "models": 1,
+      "bytes": 17311624
+    }
+  },
+  "models": [
+    {
+      "brand": "aston-martin",
+      "model": "aston_martin_vantage_roadster__www.vecarz.com",
+      "path": "aston-martin/aston_martin_vantage_roadster__www.vecarz.com.glb",
+      "bytes": 12034828,
+      "sha256": "d30b0736c5ab1f92b51cebd1c4e2199c90c3325b74b0f4ed5e512d2bd40f8596",
+      "source": "www.vecarz.com",
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.67.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 75,
+          "meshes": 42,
+          "materials": 30,
+          "textures": 15,
+          "images": 15,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "audi",
+      "model": "2009_audi_q7_v12_tdi",
+      "path": "audi/2009_audi_q7_v12_tdi.glb",
+      "bytes": 7627328,
+      "sha256": "2c2e28eeaf31495f9a28e383d4f342d0cff72d0212870e40da0e7a172d7ea288",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.68.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 134,
+          "meshes": 48,
+          "materials": 12,
+          "textures": 10,
+          "images": 10,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "audi",
+      "model": "audi_r8",
+      "path": "audi/audi_r8.glb",
+      "bytes": 3345044,
+      "sha256": "a8b1d506553c9bd2299a86b12996e6c0f063261274aaaee621c390c4b52f2ab0",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.63.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 30,
+          "meshes": 28,
+          "materials": 28,
+          "textures": 21,
+          "images": 21,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "audi",
+      "model": "audi_rs7_2014",
+      "path": "audi/audi_rs7_2014.glb",
+      "bytes": 65762248,
+      "sha256": "61681b38bbc2d33f98da2a9e3b69435d782a6325773a6a53f0c59fd0b68259fc",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.68.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 259,
+          "meshes": 178,
+          "materials": 61,
+          "textures": 4,
+          "images": 4,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "bmw",
+      "model": "2021_bmw_m4_competition",
+      "path": "bmw/2021_bmw_m4_competition.glb",
+      "bytes": 9946384,
+      "sha256": "7357918fb805b2cc07a6a33dfdfba592ac2fae97c03a0d5761d60826fa952633",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-15.30.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 312,
+          "meshes": 202,
+          "materials": 57,
+          "textures": 18,
+          "images": 18,
+          "animations": 1,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "bmw",
+      "model": "ac_-_bmw_1m_free",
+      "path": "bmw/ac_-_bmw_1m_free.glb",
+      "bytes": 7250148,
+      "sha256": "cbb3906ec4f6f205d1b2f4922ffc62935f2a7abcdacc7aa1a3383a8af0466786",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.52.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 352,
+          "meshes": 139,
+          "materials": 40,
+          "textures": 47,
+          "images": 47,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "bmw",
+      "model": "bmw_i8_xs_2015__www.vecarz.com",
+      "path": "bmw/bmw_i8_xs_2015__www.vecarz.com.glb",
+      "bytes": 10575528,
+      "sha256": "abb24328f813a8f66fb5537528efbbfe9b62027321435dd97ffe93ecd7697131",
+      "source": "www.vecarz.com",
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.68.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 2365,
+          "meshes": 782,
+          "materials": 21,
+          "textures": 17,
+          "images": 16,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "bmw",
+      "model": "bmw_m3_sedan_topaz_blue_car",
+      "path": "bmw/bmw_m3_sedan_topaz_blue_car.glb",
+      "bytes": 49939492,
+      "sha256": "291a93889a1d06987a77da2c37269c037eab9c6c518d5ea7b12a378b1c95130b",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.66.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 120,
+          "meshes": 118,
+          "materials": 22,
+          "textures": 6,
+          "images": 6,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "bmw",
+      "model": "bmw_m4_f82",
+      "path": "bmw/bmw_m4_f82.glb",
+      "bytes": 23708684,
+      "sha256": "222c485b6bac2705ae0c636e8ae6907af09d5e6302d115e3364b5a0b90a1aaf7",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.3.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 406,
+          "meshes": 281,
+          "materials": 63,
+          "textures": 14,
+          "images": 14,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "bmw",
+      "model": "bmw",
+      "path": "bmw/bmw.glb",
+      "bytes": 16100820,
+      "sha256": "45b07634f696b1307e0e1320ee668011c9a135a7dcd0683ab2779d4561ded2da",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.59.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 2780,
+          "meshes": 920,
+          "materials": 22,
+          "textures": 29,
+          "images": 29,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "chevrolet",
+      "model": "2016_chevrolet_camaro_ss",
+      "path": "chevrolet/2016_chevrolet_camaro_ss.glb",
+      "bytes": 8398984,
+      "sha256": "c5be4721488939f811325dae6f69052cd4a8434a28cd1d7ab012eb25b747f221",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.54.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 1012,
+          "meshes": 495,
+          "materials": 20,
+          "textures": 26,
+          "images": 26,
+          "animations": 0,
+          "skins": 1
+        }
+      }
+    },
+    {
+      "brand": "chevrolet",
+      "model": "2020_chevrolet_corvette_c8_stingray_convertible",
+      "path": "chevrolet/2020_chevrolet_corvette_c8_stingray_convertible.glb",
+      "bytes": 20966440,
+      "sha256": "8688b95abaeafee88dcbb78478cd809120598eaa4c034fd462f1e59382895437",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.43.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 139,
+          "meshes": 51,
+          "materials": 28,
+          "textures": 27,
+          "images": 27,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "chevrolet",
+      "model": "2025_chevrolet_corvette_zr1",
+      "path": "chevrolet/2025_chevrolet_corvette_zr1.glb",
+      "bytes": 19735224,
+      "sha256": "da89d4a0f0ccb2023623d4a001685b606a898c4bee71e61c7a2715efcf76d0be",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.72.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 1979,
+          "meshes": 978,
+          "materials": 29,
+          "textures": 48,
+          "images": 48,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "ferrari",
+      "model": "2016_ferrari_488_gtb",
+      "path": "ferrari/2016_ferrari_488_gtb.glb",
+      "bytes": 10335780,
+      "sha256": "2053d9be0c43fd3ebbdfc2f281650e6f4d3baf977bc61f9bb01f5bdd3fc50437",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.45.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 1177,
+          "meshes": 580,
+          "materials": 19,
+          "textures": 19,
+          "images": 19,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "ferrari",
+      "model": "2020_ferrari_f8_tributo",
+      "path": "ferrari/2020_ferrari_f8_tributo.glb",
+      "bytes": 13253356,
+      "sha256": "e18bcb418fdf1a54352be13dd5caf2d225199dd09f99ba4609dd30d73a028791",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.52.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 1110,
+          "meshes": 544,
+          "materials": 19,
+          "textures": 26,
+          "images": 26,
+          "animations": 0,
+          "skins": 1
+        }
+      }
+    },
+    {
+      "brand": "ferrari",
+      "model": "ferrari_2021",
+      "path": "ferrari/ferrari_2021.glb",
+      "bytes": 18482208,
+      "sha256": "424082aabdaaa354441919f9e9bdf85864bb8eff427b7c8400da06927a561870",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.51.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 2201,
+          "meshes": 1097,
+          "materials": 27,
+          "textures": 31,
+          "images": 31,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "ford",
+      "model": "2018_dodge_challenger_srt_hellcat",
+      "path": "ford/2018_dodge_challenger_srt_hellcat.glb",
+      "bytes": 37431876,
+      "sha256": "add5f31a8f982372467517b7755d3762f92331a15c0c6f168b125b149bffa4d3",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-15.17.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 201,
+          "meshes": 99,
+          "materials": 18,
+          "textures": 0,
+          "images": 0,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "ford",
+      "model": "2018_ford_f-150_raptor",
+      "path": "ford/2018_ford_f-150_raptor.glb",
+      "bytes": 3724844,
+      "sha256": "bd3642a4d03bb7f07e8f4163f5983f48010ac91334bf6d61c06c3684f40e3c1c",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.82.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 246,
+          "meshes": 111,
+          "materials": 18,
+          "textures": 11,
+          "images": 11,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "ford",
+      "model": "car",
+      "path": "ford/car.glb",
+      "bytes": 16458608,
+      "sha256": "345c13c179184bf4ec9862a85e28e196a3235de7bd2bacfc5babe7d6c86575a6",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.99.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 152,
+          "meshes": 85,
+          "materials": 22,
+          "textures": 24,
+          "images": 24,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "ford",
+      "model": "ford_mustang_gt_convertible_1968",
+      "path": "ford/ford_mustang_gt_convertible_1968.glb",
+      "bytes": 27532308,
+      "sha256": "b2705188e286be39e7efc7f590820ec9fbf5de24423d9087875b89f0a49d4123",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-15.58.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 125,
+          "meshes": 68,
+          "materials": 21,
+          "textures": 0,
+          "images": 0,
+          "animations": 2,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "ford",
+      "model": "hcr2_monster_truck",
+      "path": "ford/hcr2_monster_truck.glb",
+      "bytes": 2741492,
+      "sha256": "1a39962cf841fdee73168ccb315a64240e674f8bab32a3a42ac76e99eba6cb81",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.62.1"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 45,
+          "meshes": 21,
+          "materials": 4,
+          "textures": 4,
+          "images": 4,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "honda",
+      "model": "custom_honda_civic_type-r_2024",
+      "path": "honda/custom_honda_civic_type-r_2024.glb",
+      "bytes": 15613804,
+      "sha256": "08c7cbe2099e046285e393698151d758d9324af8bfea434147c119e778c4be90",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.29.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 64,
+          "meshes": 31,
+          "materials": 20,
+          "textures": 17,
+          "images": 17,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "honda",
+      "model": "honda_nsx_1990",
+      "path": "honda/honda_nsx_1990.glb",
+      "bytes": 6604608,
+      "sha256": "16828f079ff8581ed716b1cb5253d27cdaf35cbf95116fa11fbf628d1f44f379",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.81.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 55,
+          "meshes": 38,
+          "materials": 20,
+          "textures": 4,
+          "images": 4,
+          "animations": 1,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "honda",
+      "model": "reb_car",
+      "path": "honda/reb_car.glb",
+      "bytes": 2578744,
+      "sha256": "cf0bf1a958bce222a67f83295032272fe86dd414d5d1a61cbfa000cf58fa43d5",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-15.42.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 26,
+          "meshes": 24,
+          "materials": 24,
+          "textures": 5,
+          "images": 5,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "hyundai",
+      "model": "2015_hyundai_tucson",
+      "path": "hyundai/2015_hyundai_tucson.glb",
+      "bytes": 1152688,
+      "sha256": "4011dfd49efe2735387b66d131975488b936a4f241c1bbfb621a685ec8fa16f7",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.68.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 75,
+          "meshes": 54,
+          "materials": 18,
+          "textures": 0,
+          "images": 0,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "hyundai",
+      "model": "2021_hyundai_veloster_n",
+      "path": "hyundai/2021_hyundai_veloster_n.glb",
+      "bytes": 17999188,
+      "sha256": "5266752891d3298174bad354167fd7fc1af2d5710b3c261e478a79c84b6d1cf6",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.95.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 233,
+          "meshes": 118,
+          "materials": 27,
+          "textures": 16,
+          "images": 16,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "hyundai",
+      "model": "2022_hyundai_elantra_n",
+      "path": "hyundai/2022_hyundai_elantra_n.glb",
+      "bytes": 51639684,
+      "sha256": "347015fdd4f1fd7f8b36c3b0574045f150c6b21fcf53751b2e552ba4bb43aed5",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.95.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 171,
+          "meshes": 169,
+          "materials": 25,
+          "textures": 1,
+          "images": 1,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "hyundai",
+      "model": "hyundai_creta_2016",
+      "path": "hyundai/hyundai_creta_2016.glb",
+      "bytes": 6345196,
+      "sha256": "d459fe228322ea3a1d741c818fbb8adbc7588b5956402d8167d131b5d5edd5d8",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "glTF-Transform v4.3.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 13,
+          "meshes": 13,
+          "materials": 13,
+          "textures": 7,
+          "images": 7,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "hyundai",
+      "model": "hyundai_sonata_2009",
+      "path": "hyundai/hyundai_sonata_2009.glb",
+      "bytes": 37919652,
+      "sha256": "4102de054cab449e58085391d45559b9b6de0ebfe21ff2e8b4850951cca70a4b",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.12.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 39,
+          "meshes": 23,
+          "materials": 15,
+          "textures": 2,
+          "images": 2,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "hyundai",
+      "model": "mazda_rx-7_car",
+      "path": "hyundai/mazda_rx-7_car.glb",
+      "bytes": 4514072,
+      "sha256": "b869f61af3e22d427d63638f13035f1917858eddb2713146c8345f89505fbcca",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.68.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 41,
+          "meshes": 29,
+          "materials": 16,
+          "textures": 6,
+          "images": 6,
+          "animations": 1,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "hyundai",
+      "model": "subaru_impreza_wrx",
+      "path": "hyundai/subaru_impreza_wrx.glb",
+      "bytes": 3976032,
+      "sha256": "7e7671c32b410cf19fc1374a1b2c6cf3cbc4cce478714e7e32a1f49649e1aa77",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.66.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 29,
+          "meshes": 27,
+          "materials": 27,
+          "textures": 0,
+          "images": 0,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "lamborghini",
+      "model": "2009_lamborghini_gallardo_lp560-4_spyder",
+      "path": "lamborghini/2009_lamborghini_gallardo_lp560-4_spyder.glb",
+      "bytes": 9149780,
+      "sha256": "012d55fcc8f1810cc332125a700d1929d18a54b5852919142863bb76573695f6",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.67.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 2560,
+          "meshes": 851,
+          "materials": 16,
+          "textures": 27,
+          "images": 27,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "lamborghini",
+      "model": "2019_lamborghini_huracan_gt_lbsilhouette",
+      "path": "lamborghini/2019_lamborghini_huracan_gt_lbsilhouette.glb",
+      "bytes": 16397388,
+      "sha256": "3f9e9b17e5b62f175c3198024fd1e57706181dec2e8c45a48b133e56e2584c24",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.45.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 4475,
+          "meshes": 2226,
+          "materials": 22,
+          "textures": 26,
+          "images": 26,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "lamborghini",
+      "model": "2020_lamborghini_aventador_svj_63_roadster",
+      "path": "lamborghini/2020_lamborghini_aventador_svj_63_roadster.glb",
+      "bytes": 18591116,
+      "sha256": "6acab1c693ca41f5e78060e8182fd416bea44c1702401996b4f5ea74f91271ca",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.45.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 3171,
+          "meshes": 1583,
+          "materials": 25,
+          "textures": 24,
+          "images": 24,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "lamborghini",
+      "model": "lambo urus",
+      "path": "lamborghini/lambo urus.glb",
+      "bytes": 1230764,
+      "sha256": "34bab28407d52e0776bfc7882ee921f1b14cc7c87e9c53f67a85beedc9ac994e",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-7.65.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 150,
+          "meshes": 72,
+          "materials": 21,
+          "textures": 2,
+          "images": 2,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "maserati",
+      "model": "maserati_granturismo_mc_stradale",
+      "path": "maserati/maserati_granturismo_mc_stradale.glb",
+      "bytes": 16873512,
+      "sha256": "4ee528dedb30bae7098b854f46d2fcd45705bbc34bf47168ede873a7f256a1b8",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.68.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 84,
+          "meshes": 39,
+          "materials": 34,
+          "textures": 51,
+          "images": 51,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "mclaren",
+      "model": "2017_mclaren_720s",
+      "path": "mclaren/2017_mclaren_720s.glb",
+      "bytes": 9276404,
+      "sha256": "1372c699e46ee92ffd9522669fac78574182f96779f41395753591ce3dc1d595",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.53.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 100,
+          "meshes": 48,
+          "materials": 23,
+          "textures": 14,
+          "images": 14,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "mclaren",
+      "model": "Mclaren Senna",
+      "path": "mclaren/Mclaren Senna.glb",
+      "bytes": 62963332,
+      "sha256": "32655c238abcf6260aa960e0f32e3204a2f8b25a8dc419d2ad30ca92b1c5a31e",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Microsoft GLTF Exporter 2.4.2.17"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 167,
+          "meshes": 72,
+          "materials": 39,
+          "textures": 52,
+          "images": 52,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "mercedes",
+      "model": "low_poly_mercedes",
+      "path": "mercedes/low_poly_mercedes.glb",
+      "bytes": 2627424,
+      "sha256": "f674cb14be3fed2d5f1b942c5febb7d71dcbf785146b480953ab4e2dd3792eeb",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.59.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 36,
+          "meshes": 15,
+          "materials": 15,
+          "textures": 0,
+          "images": 0,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "mercedes",
+      "model": "mercedes_amg_gt",
+      "path": "mercedes/mercedes_amg_gt.glb",
+      "bytes": 64317852,
+      "sha256": "82e6624cfadeaf02298218801cbac471b5d01b944b2a0316d4cf5f40e6c651e5",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-15.49.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 160,
+          "meshes": 129,
+          "materials": 30,
+          "textures": 3,
+          "images": 3,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "nissan",
+      "model": "nissan_370z_z34",
+      "path": "nissan/nissan_370z_z34.glb",
+      "bytes": 3712280,
+      "sha256": "5c7a3dc3dfd424dfebb8eaf04a83b88f7b88e2141d8a0c019ba6cf3b6cb47d51",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.64.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 18,
+          "meshes": 16,
+          "materials": 16,
+          "textures": 20,
+          "images": 20,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "nissan",
+      "model": "nissan_aimgain_gt_r35_type2",
+      "path": "nissan/nissan_aimgain_gt_r35_type2.glb",
+      "bytes": 22689820,
+      "sha256": "d50a7049257b43ba0c9451d9bcb1ae695ee16d17e5227d61f07081c3a907b65e",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.60.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 1032,
+          "meshes": 253,
+          "materials": 28,
+          "textures": 35,
+          "images": 35,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "porsche",
+      "model": "2014_porsche_cayman_s_981",
+      "path": "porsche/2014_porsche_cayman_s_981.glb",
+      "bytes": 5556364,
+      "sha256": "4667ac812fa0a6ed7a3debbc55a7fbe5f8a14fbf943416933fd2fdbf4d9df529",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.53.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 39,
+          "meshes": 19,
+          "materials": 15,
+          "textures": 17,
+          "images": 17,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "porsche",
+      "model": "2020_porsche_718_cayman_gt4",
+      "path": "porsche/2020_porsche_718_cayman_gt4.glb",
+      "bytes": 12745324,
+      "sha256": "011880bbcfe10922fac6888eddacacfa1daec200178c977b3d6beb0e6c8802c6",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.52.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 1887,
+          "meshes": 938,
+          "materials": 17,
+          "textures": 19,
+          "images": 19,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "porsche",
+      "model": "2021_porsche_panamera_turbo_s_sport_turismo",
+      "path": "porsche/2021_porsche_panamera_turbo_s_sport_turismo.glb",
+      "bytes": 15698384,
+      "sha256": "4ba9d2833886905c7da7804f880d517088db9fc8f6afb32942b114fe16f4b826",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.52.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 1418,
+          "meshes": 704,
+          "materials": 28,
+          "textures": 32,
+          "images": 32,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "porsche",
+      "model": "porsche_taycan_turbo_s_project_cars_3",
+      "path": "porsche/porsche_taycan_turbo_s_project_cars_3.glb",
+      "bytes": 9995700,
+      "sha256": "80d370e6d2df83c9c79cec04599beb8df0ddce0d1ac6c9370bf9fadbd638b09a",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.85.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 41,
+          "meshes": 39,
+          "materials": 32,
+          "textures": 58,
+          "images": 58,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "porsche",
+      "model": "porshe 911",
+      "path": "porsche/porshe 911.glb",
+      "bytes": 3461524,
+      "sha256": "704c474ef147783a026c609922be03878b8ad05e0d8c2800160e933385307eae",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "glTF-Transform v0.12.16"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 82,
+          "meshes": 44,
+          "materials": 13,
+          "textures": 8,
+          "images": 8,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "tesla",
+      "model": "cybertruck_modified",
+      "path": "tesla/cybertruck_modified.glb",
+      "bytes": 53280664,
+      "sha256": "a5c3669380b212e1b8e84846b3616f9a236180144684e4bd686ef5fc5df65301",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.72.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 66,
+          "meshes": 40,
+          "materials": 17,
+          "textures": 0,
+          "images": 0,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "toyota",
+      "model": "2022_toyota_land_cruiser_300_vx.r",
+      "path": "toyota/2022_toyota_land_cruiser_300_vx.r.glb",
+      "bytes": 17712192,
+      "sha256": "407f7698d1162a99be7929a7c472317029563a254bbf8d3556735209a670826d",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.73.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 300,
+          "meshes": 149,
+          "materials": 18,
+          "textures": 23,
+          "images": 23,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "toyota",
+      "model": "toyota_supra_mk5_a90",
+      "path": "toyota/toyota_supra_mk5_a90.glb",
+      "bytes": 29671284,
+      "sha256": "7cdd889b95c8bdb279e2c5759bb7cf4dfed15713b6865ccac874361c187e2d38",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-15.10.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 67,
+          "meshes": 65,
+          "materials": 26,
+          "textures": 5,
+          "images": 5,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "volkswagen",
+      "model": "volkswagen_golf_ii",
+      "path": "volkswagen/volkswagen_golf_ii.glb",
+      "bytes": 17311624,
+      "sha256": "f9a526fc85c41f96d9685bf43a4f3344c172ba357b12bed13b87277ae3831f47",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-16.62.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 12,
+          "meshes": 10,
+          "materials": 10,
+          "textures": 26,
+          "images": 26,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    }
+  ]
+}
