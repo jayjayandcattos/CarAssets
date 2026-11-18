@@ -19,21 +19,25 @@
       "models": 3,
       "bytes": 49100648
     },
+    "dodge": {
+      "models": 1,
+      "bytes": 37431876
+    },
     "ferrari": {
       "models": 3,
       "bytes": 42071344
     },
     "ford": {
-      "models": 5,
-      "bytes": 87889128
+      "models": 4,
+      "bytes": 50457252
     },
     "honda": {
       "models": 3,
       "bytes": 24797156
     },
     "hyundai": {
-      "models": 7,
-      "bytes": 123546512
+      "models": 5,
+      "bytes": 115056408
     },
     "lamborghini": {
       "models": 4,
@@ -42,6 +46,10 @@
     "maserati": {
       "models": 1,
       "bytes": 16873512
+    },
+    "mazda": {
+      "models": 1,
+      "bytes": 4514072
     },
     "mclaren": {
       "models": 2,
@@ -58,6 +66,10 @@
     "porsche": {
       "models": 5,
       "bytes": 47457296
+    },
+    "subaru": {
+      "models": 1,
+      "bytes": 3976032
     },
     "tesla": {
       "models": 1,
@@ -399,6 +411,31 @@
       }
     },
     {
+      "brand": "dodge",
+      "model": "2018_dodge_challenger_srt_hellcat",
+      "path": "dodge/2018_dodge_challenger_srt_hellcat.glb",
+      "bytes": 37431876,
+      "sha256": "add5f31a8f982372467517b7755d3762f92331a15c0c6f168b125b149bffa4d3",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-15.17.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 201,
+          "meshes": 99,
+          "materials": 18,
+          "textures": 0,
+          "images": 0,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
       "brand": "ferrari",
       "model": "2016_ferrari_488_gtb",
       "path": "ferrari/2016_ferrari_488_gtb.glb",
@@ -468,31 +505,6 @@
           "materials": 27,
           "textures": 31,
           "images": 31,
-          "animations": 0,
-          "skins": 0
-        }
-      }
-    },
-    {
-      "brand": "ford",
-      "model": "2018_dodge_challenger_srt_hellcat",
-      "path": "ford/2018_dodge_challenger_srt_hellcat.glb",
-      "bytes": 37431876,
-      "sha256": "add5f31a8f982372467517b7755d3762f92331a15c0c6f168b125b149bffa4d3",
-      "source": null,
-      "glb": {
-        "version": 2,
-        "asset": {
-          "version": "2.0",
-          "generator": "Sketchfab-15.17.0"
-        },
-        "counts": {
-          "scenes": 1,
-          "nodes": 201,
-          "meshes": 99,
-          "materials": 18,
-          "textures": 0,
-          "images": 0,
           "animations": 0,
           "skins": 0
         }
@@ -799,56 +811,6 @@
       }
     },
     {
-      "brand": "hyundai",
-      "model": "mazda_rx-7_car",
-      "path": "hyundai/mazda_rx-7_car.glb",
-      "bytes": 4514072,
-      "sha256": "b869f61af3e22d427d63638f13035f1917858eddb2713146c8345f89505fbcca",
-      "source": null,
-      "glb": {
-        "version": 2,
-        "asset": {
-          "version": "2.0",
-          "generator": "Sketchfab-12.68.0"
-        },
-        "counts": {
-          "scenes": 1,
-          "nodes": 41,
-          "meshes": 29,
-          "materials": 16,
-          "textures": 6,
-          "images": 6,
-          "animations": 1,
-          "skins": 0
-        }
-      }
-    },
-    {
-      "brand": "hyundai",
-      "model": "subaru_impreza_wrx",
-      "path": "hyundai/subaru_impreza_wrx.glb",
-      "bytes": 3976032,
-      "sha256": "7e7671c32b410cf19fc1374a1b2c6cf3cbc4cce478714e7e32a1f49649e1aa77",
-      "source": null,
-      "glb": {
-        "version": 2,
-        "asset": {
-          "version": "2.0",
-          "generator": "Sketchfab-12.66.0"
-        },
-        "counts": {
-          "scenes": 1,
-          "nodes": 29,
-          "meshes": 27,
-          "materials": 27,
-          "textures": 0,
-          "images": 0,
-          "animations": 0,
-          "skins": 0
-        }
-      }
-    },
-    {
       "brand": "lamborghini",
       "model": "2009_lamborghini_gallardo_lp560-4_spyder",
       "path": "lamborghini/2009_lamborghini_gallardo_lp560-4_spyder.glb",
@@ -925,8 +887,8 @@
     },
     {
       "brand": "lamborghini",
-      "model": "lambo urus",
-      "path": "lamborghini/lambo urus.glb",
+      "model": "lamborghini_urus",
+      "path": "lamborghini/lamborghini_urus.glb",
       "bytes": 1230764,
       "sha256": "34bab28407d52e0776bfc7882ee921f1b14cc7c87e9c53f67a85beedc9ac994e",
       "source": null,
@@ -974,6 +936,31 @@
       }
     },
     {
+      "brand": "mazda",
+      "model": "mazda_rx-7_car",
+      "path": "mazda/mazda_rx-7_car.glb",
+      "bytes": 4514072,
+      "sha256": "b869f61af3e22d427d63638f13035f1917858eddb2713146c8345f89505fbcca",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "Sketchfab-12.68.0"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 41,
+          "meshes": 29,
+          "materials": 16,
+          "textures": 6,
+          "images": 6,
+          "animations": 1,
+          "skins": 0
+        }
+      }
+    },
+    {
       "brand": "mclaren",
       "model": "2017_mclaren_720s",
       "path": "mclaren/2017_mclaren_720s.glb",
@@ -1000,8 +987,8 @@
     },
     {
       "brand": "mclaren",
-      "model": "Mclaren Senna",
-      "path": "mclaren/Mclaren Senna.glb",
+      "model": "mclaren_senna",
+      "path": "mclaren/mclaren_senna.glb",
       "bytes": 62963332,
       "sha256": "32655c238abcf6260aa960e0f32e3204a2f8b25a8dc419d2ad30ca92b1c5a31e",
       "source": null,
@@ -1200,6 +1187,31 @@
     },
     {
       "brand": "porsche",
+      "model": "porsche_911",
+      "path": "porsche/porsche_911.glb",
+      "bytes": 3461524,
+      "sha256": "704c474ef147783a026c609922be03878b8ad05e0d8c2800160e933385307eae",
+      "source": null,
+      "glb": {
+        "version": 2,
+        "asset": {
+          "version": "2.0",
+          "generator": "glTF-Transform v0.12.16"
+        },
+        "counts": {
+          "scenes": 1,
+          "nodes": 82,
+          "meshes": 44,
+          "materials": 13,
+          "textures": 8,
+          "images": 8,
+          "animations": 0,
+          "skins": 0
+        }
+      }
+    },
+    {
+      "brand": "porsche",
       "model": "porsche_taycan_turbo_s_project_cars_3",
       "path": "porsche/porsche_taycan_turbo_s_project_cars_3.glb",
       "bytes": 9995700,
@@ -1224,25 +1236,25 @@
       }
     },
     {
-      "brand": "porsche",
-      "model": "porshe 911",
-      "path": "porsche/porshe 911.glb",
-      "bytes": 3461524,
-      "sha256": "704c474ef147783a026c609922be03878b8ad05e0d8c2800160e933385307eae",
+      "brand": "subaru",
+      "model": "subaru_impreza_wrx",
+      "path": "subaru/subaru_impreza_wrx.glb",
+      "bytes": 3976032,
+      "sha256": "7e7671c32b410cf19fc1374a1b2c6cf3cbc4cce478714e7e32a1f49649e1aa77",
       "source": null,
       "glb": {
         "version": 2,
         "asset": {
           "version": "2.0",
-          "generator": "glTF-Transform v0.12.16"
+          "generator": "Sketchfab-12.66.0"
         },
         "counts": {
           "scenes": 1,
-          "nodes": 82,
-          "meshes": 44,
-          "materials": 13,
-          "textures": 8,
-          "images": 8,
+          "nodes": 29,
+          "meshes": 27,
+          "materials": 27,
+          "textures": 0,
+          "images": 0,
           "animations": 0,
           "skins": 0
         }
