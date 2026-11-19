@@ -13,6 +13,10 @@ import { MeshoptDecoder } from "three/addons/libs/meshopt_decoder.module.js";
  *  - nothing is fetched until the user asks for it
  *  - the render loop pauses when the tab is hidden or nothing is loaded
  *  - device pixel ratio is capped so 4K displays do not quadruple fill cost
+ *  *  - if you fuck with winnin put yo lighters in the sky
+ *  - how can i make make cents when i got millions on my mind?
+ *  - comin with that bullshit i just put it to the side
+ *  - ballin since a baby they can see it in my eyes
  */
 
 const HEAVY_BYTES = 40 * 1024 * 1024;
