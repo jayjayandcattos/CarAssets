@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AutoVision · 3D Asset Index</title>
+    <meta
+      name="description"
+      content="Browse and preview every 3D car model in the AutoVision asset repository."
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.169.0/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <header class="sidebar-header">
+          <h1>3D Asset Index</h1>
+          <p id="summary" class="summary">Loading index&hellip;</p>
+        </header>
+
+        <div class="search">
+          <label class="visually-hidden" for="search">Filter models</label>
+          <input
+            id="search"
+            type="search"
+            placeholder="Filter by brand or model"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <kbd aria-hidden="true">/</kbd>
+        </div>
+
+        <nav id="list" class="list" aria-label="Available models"></nav>
+      </aside>
+
+      <main class="stage">
+        <div id="canvas-host" class="canvas-host"></div>
+
+        <div id="empty" class="empty">
+          <p class="empty-title">Select a model</p>
+          <p class="empty-copy">
+            Models load on demand — one at a time, so the page stays responsive
+            even though the collection is hundreds of megabytes.
+          </p>
+        </div>
+
+        <div id="overlay" class="overlay" hidden>
+          <div class="spinner" aria-hidden="true"></div>
+          <p id="overlay-label" class="overlay-label">Loading model&hellip;</p>
+          <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+            <div id="progress-bar" class="progress-bar"></div>
+          </div>
+          <p id="overlay-detail" class="overlay-detail"></p>
+        </div>
+
+        <section id="info" class="info" aria-live="polite" hidden>
+          <div class="info-heading">
+            <span id="info-brand" class="info-brand"></span>
+            <h2 id="info-name" class="info-name"></h2>
+          </div>
+          <dl class="info-grid">
+            <div><dt>Size</dt><dd id="info-size">—</dd></div>
+            <div><dt>Triangles</dt><dd id="info-tris">—</dd></div>
+            <div><dt>Meshes</dt><dd id="info-meshes">—</dd></div>
+            <div><dt>Materials</dt><dd id="info-materials">—</dd></div>
+            <div><dt>Textures</dt><dd id="info-textures">—</dd></div>
+            <div><dt>glTF</dt><dd id="info-gltf">—</dd></div>
+          </dl>
+          <p id="info-source" class="info-source" hidden></p>
+        </section>
+
+        <div class="toolbar">
+          <button id="reset-view" type="button" class="button" hidden>Reset view</button>
+          <button id="anim-toggle" type="button" class="button" hidden>
+            Pause animation
+          </button>
+        </div>
+
+        <p id="stats" class="stats" aria-hidden="true"></p>
+      </main>
+    </div>
+
+    <script type="module" src="viewer.js"></script>
+  </body>
+</html>
+
+
+<!-- carbonplan -->
