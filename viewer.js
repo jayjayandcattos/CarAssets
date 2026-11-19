@@ -17,6 +17,7 @@ import { MeshoptDecoder } from "three/addons/libs/meshopt_decoder.module.js";
  *  - how can i make make cents when i got millions on my mind?
  *  - comin with that bullshit i just put it to the side
  *  - ballin since a baby they can see it in my eyes
+ *  - tanginamo.
  */
 
 const HEAVY_BYTES = 40 * 1024 * 1024;
